@@ -80,8 +80,9 @@ public class AES256
 		//System.out.println("Key Algorithm: " + keyGenerator.getAlgorithm());
 		
 		return key;		
-	}*/
-		
+	}
+	*/
+	
 	public String encrypt(String strToEncrypt) throws NoSuchAlgorithmException
 	{	
 		Customer customer = new Customer();
