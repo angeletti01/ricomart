@@ -42,6 +42,11 @@
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-core</artifactId>    
 </dependency> 
+<!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-web -->
+<dependency>
+    <groupId>org.springframework.security</groupId>
+    <artifactId>spring-security-web</artifactId>    
+</dependency>
    
   <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
 <dependency>
